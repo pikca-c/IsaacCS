@@ -1,0 +1,5 @@
+Simple program that asks user for name and save their name in a file
+name = Enter Name
+username = Open("myFile.txt", mode = "write")
+username.write(Name)
+username.close()
