@@ -1,1 +1,11 @@
-
+Task 1 & 2, write an algorithm that returns sum of two numbers and compare the two numbers
+Num 1 <- input first number
+Num 2 <- input second number
+Total <- Num1 + Num 2
+Output Total
+IF Num 1 == Num 2 THEN
+  Output Num1 is the same as Num2
+ELIF Num 1 > Num2 THEN
+  Output Num1 is greater than Num2
+ELSE
+  Output Num2 is greater than Num1
