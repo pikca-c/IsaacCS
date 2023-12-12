@@ -1,0 +1,9 @@
+day <- input
+Switch day:
+  case "sat":
+    print("Saturday")
+  case "sun":
+    print("Sunday")
+  default:
+    print("weekday")
+ENDIF
