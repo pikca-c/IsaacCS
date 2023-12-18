@@ -5,5 +5,5 @@ Switch day:
   case "sun":
     print("Sunday")
   default:
-    print("weekday")
+    print("Weekday")
 ENDIF
