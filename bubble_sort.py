@@ -14,5 +14,4 @@ def bubbleSort(someList):
       index2  = index2 + 1
   return someList
     
-    
 print(bubbleSort([8,7,5,3]))
