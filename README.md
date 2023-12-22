@@ -1,6 +1,6 @@
 # IsaacCS
-Various codes from lectures and events from Isaac Computer Science
-Recent lectures:
-20231214_searchandsort
-20231212_algorithms
-20231205_search_algorithm
+Various codes from lectures and events from Isaac Computer Science <br />
+Recent lectures: <br />
+20231214_searchandsort <br />
+20231212_algorithms <br />
+20231205_search_algorithm <br />
