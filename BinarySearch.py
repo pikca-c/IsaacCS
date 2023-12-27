@@ -1,6 +1,6 @@
 #Bsearch finds whether the value is in slist
 def Bsearch(slist,value):
-    lb = slist[0]
+    lb = 0
     ub = len(slist)-1
     found = False
     while found == False and ub >= lb:
