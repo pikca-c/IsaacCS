@@ -4,6 +4,7 @@
 # Fix it!  :)
 # Refer to the pseudo code presented to you
 # Ask questions in the chat
+#fixed
 
 def binarySearch(someSortedList, e):
   index = -1
