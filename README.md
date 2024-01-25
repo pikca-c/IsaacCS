@@ -4,4 +4,4 @@ Recent lectures: <br />
 20231214_searchandsort <br />
 20231212_algorithms <br />
 20231205_search_algorithm <br />
-20240117_html_and_css <br/>
+20240125_webtech_javascript <br/>
