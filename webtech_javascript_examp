@@ -1,0 +1,20 @@
+//replace the ?s on line 4 so that the for loop will work
+
+var sentence = ["Cats","are","the","best"];
+for(var i = 0;?<sentence.length;i++){
+  console.log(sentence[i]);
+}
+
+//if the num%3 and num%5 both = 0, the number will be divisible by 3 and 5.
+//edit the if statement block so that it outputs "fizzbuzz" if the number is in both the 3 and 5 times tables.
+var num = 1;
+
+while(num<99){
+  if(num%5==0 && num%3==0){
+    console.log("fizz");
+  }
+  else{
+    console.log(num);
+  }
+  num++;
+}
